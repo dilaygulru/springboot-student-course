@@ -1,9 +1,9 @@
-```markdown
+
 # 🏫 Student Course Registration API
 
 A Spring Boot based RESTful web application for managing students, courses, and course registrations. Built with Java, PostgreSQL, and exposed via a clean Swagger UI for API testing and integration.
 
----
+
 
 ## 🚀 Features
 
@@ -14,7 +14,6 @@ A Spring Boot based RESTful web application for managing students, courses, and 
 - 🔍 Swagger UI support for live API documentation and testing
 - 🗃️ PostgreSQL database with JPA and Hibernate ORM
 
----
 
 ## ⚙️ Tech Stack
 
@@ -26,7 +25,6 @@ A Spring Boot based RESTful web application for managing students, courses, and 
 - Maven
 - Postman (for manual API testing)
 
----
 
 
 
