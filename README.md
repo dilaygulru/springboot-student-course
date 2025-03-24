@@ -28,16 +28,9 @@ A Spring Boot based RESTful web application for managing students, courses, and 
 
 ---
 
-## 📦 Getting Started
 
-### 1. Clone the Repository
 
-```bash
-git clone https://github.com/your-username/student-course-api.git
-cd student-course-api
-```
-
-### 2. Configure the Database
+### Configure the Database
 
 Make sure PostgreSQL is running and create a database named `School`.
 
@@ -50,7 +43,7 @@ spring.datasource.password=your_password
 spring.jpa.hibernate.ddl-auto=update
 ```
 
-### 3. Run the Application
+### Run the Application
 
 You can run the application via IntelliJ, Eclipse, or CLI:
 
